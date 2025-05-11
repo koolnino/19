@@ -4,4 +4,4 @@ version: 1.0.0
 author: koolnino
 type: app
 entry: starwars_music.c
-description: Plays the Star Wars melody on Flipper Zero
+description: Star Wars melody using Flipper Zero buzzer
