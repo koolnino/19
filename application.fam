@@ -1,0 +1,7 @@
+name: StarWarsMusic
+app_id: starwars_music
+version: 1.0.0
+author: koolnino
+type: app
+entry: starwars_music.c
+description: Plays the Star Wars melody on Flipper Zero
